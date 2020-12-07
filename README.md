@@ -4,4 +4,4 @@ A simple, rudimentary, light weigth, python only port scanner for when all you h
 
 usage:
 
-python3 scanner.py <ip>
+python3 scanner.py "IP"
